@@ -1,0 +1,11 @@
+# Ignore Kubernetes configuration files
+/kubeconfig
+
+# Ignore Kubernetes state files
+/kube-state-metrics
+
+# Ignore Kubernetes logs
+/logs
+
+# Ignore Kubernetes secrets
+/secrets
